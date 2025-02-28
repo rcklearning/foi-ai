@@ -5,7 +5,7 @@ My submission to the Powerful Devs Hack 2025 is a solution for UK Public Bodies,
 FOIs are requests for information from members of the public and all UK public bodies (around 40,000 organisations) have to legally respond to these requests under the terms of the FOI Act (2000) - https://www.legislation.gov.uk/ukpga/2000/36/contents
 Some general figures to convey the scale of this process in the United Kingdom:
  - Government figures for 2023 say there were over 70,000 FOI requests submitted to UK public bodies
- - The website 'What do they know' (a Charity-backed site to help users submit and track FOI requests) says it contains data on over a million requests across 47,000 public bodies.
+ - The website ['What do they know'](https://www.whatdotheyknow.com/) (a Charity-backed site to help users submit and track FOI requests) says it contains data on over a million requests across 47,000 public bodies.
 
 Accordingly, FOI requests consume a significant amount of resource. Whilst the legislation and process is vital to ensure government and public sector transparency and accountability, I believe there is a way AI and Power Apps could help reduce the time involved in handling these requests. Further, as I hope my solution shows there are benefits for members of the public too - by being able to submit clearer FOI requests they are more likely to get the information they need, more quickly. 
 
