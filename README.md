@@ -17,4 +17,8 @@ Everything is contained in the uploaded solution file:
 - Canvas App to manage the FOIs internally, with AI infused in a number of areas.
 - Power Pages site which is a mock-up of what a Public Body could do - having a standard form if users don't want to interact with the bot, and an AI-supported approach using the aforementioned Copilot Agent.
 
+Setup Instructions:
+
+Simply download the unmanaged solution file in this repository, install in your Power Apps environment, set your own connection references and then configure as you wish!
+
 Thanks for reading!
